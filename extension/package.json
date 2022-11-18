@@ -1,6 +1,6 @@
 {
-  "name": "myextensionpack",
-  "displayName": "MyExtensionPack",
+  "name": "extensionpackminimal",
+  "displayName": "ExtensionPackMinimal",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -10,11 +10,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "ms-python.black-formatter", 
-    "ms-python.flake8", 
-    "ms-python.isort", 
-    "ms-python.python", 
-    "ms-python.vscode-pylance", 
-    "streetsidesoftware.code-spell-checker"
+    "julialang.language-julia",
+    "ms-python.python"
   ]
 }
