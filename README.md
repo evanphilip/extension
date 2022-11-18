@@ -6,6 +6,6 @@ This method lets you create a VS Code Extension Pack in VSIX format without inst
 
 ## Instructions
 
-- Fork this repo and edit `/extension/package.json` to include your desired extensions. 
+- Fork this repo and edit `/package.json` to include your desired extensions. 
 - Download the edited repo as a zip file and change the extension to `.vsix`. 
 - Install using `Extensions: Install from VSIX`.
