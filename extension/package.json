@@ -1,0 +1,16 @@
+{
+  "name": "extensionpackminimal",
+  "displayName": "ExtensionPackMinimal",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "julialang.language-julia",
+    "ms-python.python",
+  ]
+}
